@@ -53,10 +53,4 @@ The goal is to detect anomalies in multivariate time series data using a Vision 
 - Includes visualization of training loss and anomaly detection results.
 - Ideal for reproducing training and evaluation or extending the methodology.
 
-## References
 
-- Dosovitskiy et al., "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale", ICLR 2021.
-- Mallat, S., "A Theory for Multiresolution Signal Decomposition", IEEE TPAMI, 1989.
-- Vaswani et al., "Attention is All You Need", NeurIPS 2017.
-
----
