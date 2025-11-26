@@ -53,4 +53,10 @@ The goal is to detect anomalies in multivariate time series data using a Vision 
 - Includes visualization of training loss and anomaly detection results.
 - Ideal for reproducing training and evaluation or extending the methodology.
 
+## Novelty Task: Supervised Anomaly Detection
+
+As an extension to our unsupervised experiments, we implemented the same wavelet-enhanced Vision Transformer pipeline on a supervised anomaly detection task using the [Embedded System Network Security Dataset](https://www.kaggle.com/datasets/ziya07/network-traffic-anomaly-detection-dataset). This task evaluates our approach on time series data with explicit anomaly labels, allowing direct model performance comparison in a supervised setting. 
+
+You can find all code and experiments for this task in [`Novelty_Task.ipynb`](Novelty_Task.ipynb).
+
 
